@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=728
+
+The Hanoi Tower is the famous case study for illustrating the recursive algorithm.
+And this is the simplest implementation written in vim macro.
